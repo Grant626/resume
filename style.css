@@ -1,0 +1,33 @@
+div{
+    border: 3px outset red;
+    background-color: grey;
+    text-align: center;
+    line-height: 1
+}
+li{
+    text-align: left;
+}
+h3{
+    font-size: 12px;
+    font-weight: lighter;
+    font-style: italic;
+    line-height: 0;
+}
+nav{
+    border: 3px outset red;
+    background-color: gray;
+    text-align: center;
+    line-height: 2;
+}
+hr{
+    width:50%;
+    height: 1px;
+    background-color: darkred;
+    border:none;
+}
+img{
+    float:right;
+}
+td{
+    border: 1px solid red;
+}
